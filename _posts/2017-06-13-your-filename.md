@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+# A New Post
 
 This is some text
 
