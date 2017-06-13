@@ -5,6 +5,4 @@ published: true
 
 This is some text
 
-![shot.png](/shot.png)
-
-
+![shot.png]({{site.baseurl}}/images/shot.png)
