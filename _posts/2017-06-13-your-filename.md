@@ -5,6 +5,6 @@ published: true
 
 This is some text
 
-![shot.png]({{site.baseurl}}/_posts/shot.png)
+![shot.png](/shot.png)
 
 
